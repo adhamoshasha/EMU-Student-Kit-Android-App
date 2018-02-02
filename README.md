@@ -10,3 +10,7 @@ Mohamed Balto: https://github.com/BaltuNoblesse
 Adham Moshasha: https://github.com/adhamoshasha
 
 Abduljawad Elsheredi: https://github.com/jawadshred
+
+Supervisor: 
+
+Begum Koru: https://github.com/begumkoru
