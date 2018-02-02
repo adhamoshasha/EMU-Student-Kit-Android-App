@@ -1,5 +1,5 @@
 # Uni-Project-CMSE322
-Software Design Project: EMU Student Kit
+Software Design Project: EMU Student Kit Android Application
 
 Team:
 
